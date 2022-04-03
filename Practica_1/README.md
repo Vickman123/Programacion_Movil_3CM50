@@ -1,4 +1,4 @@
-# PRIMERA PRACTICA "Mi primera app"
+# Practica 1 "Mi primera app"
 
 #### Practica 1 que busca generar la primera app con el algoritmo que genera infinitamente nombres de manera aleatoria
 
