@@ -1,8 +1,8 @@
-# Segunda Practica
+# Practica 2 "Seleccion y Guardado"
 
-### Es esta modificamos un poco el codigo de la primera con el siguientes fragmento en main.dart
-
-#### Main.Dart(Fragmento)
+### Es esta modificamos un poco el codigo de la primera con el siguientes fragmento en main.dart 
+### Esto por medio del documentacion codelabs developers google que nos permitio agregar esta seccion a la primera practica ,se puede encontrar en el siguiente enlace [Practica 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0 "Practica 2")
+### Main.Dart(Fragmento)
 
 ```Flutter
 import 'package:english_words/english_words.dart';
