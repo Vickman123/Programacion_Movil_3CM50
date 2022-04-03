@@ -139,6 +139,12 @@ class RandomWords extends StatefulWidget {
   State<RandomWords> createState() => _RandomWordsState();
 }
 ```    
- #### Permitiendo ver lo siguiente
-    
+ #### Permitiendo ver lo siguiente:
+  
+  > Aplicacion con corazones para seleccionar
+  ![1](https://user-images.githubusercontent.com/68364639/161414448-a3a0186f-11de-4039-8e76-2c233a0e974a.png)
+  
+  > Aplicacion con datos guardados de los corazones
+  ![2](https://user-images.githubusercontent.com/68364639/161414449-30a13d4f-e550-4f51-bd66-3ca089b6e6fc.png)
+  
 
