@@ -3,4 +3,6 @@
 
 Carpeta con los proyectos elaborados durante mi materia de programación móvil con Dart y Flutter 
 
-[TOCM]
+- Practica 1 "Mi primera app"
+- Practica 2 "Seleccion y Guardado"
+- practica 3 "Mi primer layot de un lugar"
