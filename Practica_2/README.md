@@ -4,6 +4,7 @@
 
 #### Main.Dart(Fragmento)
 
+```Flutter
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 
@@ -137,7 +138,7 @@ class RandomWords extends StatefulWidget {
   @override
   State<RandomWords> createState() => _RandomWordsState();
 }
-    
+```    
  #### Permitiendo ver lo siguiente
     
 
